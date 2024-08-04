@@ -30,7 +30,7 @@ This project contains four main API endpoints:
 3. **Create a `.env` file:**
     Create a `.env` file in the root directory and add the following:
     ```
-    MONGODB_URI=mongodb://localhost:27017/moneeflo
+    MONGODB_URI=mongodb+srv://kumarpancham551:cP1K7QPizgJ0OlS5@cluster0.flqnjl3.mongodb.net/
     JWT_SECRET=your_jwt_secret
     ```
 4. **Run the application:**

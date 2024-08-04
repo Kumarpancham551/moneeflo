@@ -20,8 +20,8 @@ This project contains four main API endpoints:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-repo/node-api-project.git
-    cd node-api-project
+    git clone https://github.com/Kumarpancham551/moneefloTest.git
+    cd moneefloTest
     ```
 2. **Install dependencies:**
     ```sh
